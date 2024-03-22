@@ -1,6 +1,6 @@
 {
 	"name": "eslint-config-purify",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"author": "m1sheen",
 	"repository": "https://github.com/m1sheen/eslint-config-purify",
 	"license": "MIT",
