@@ -1,6 +1,6 @@
 # eslint-config-purify [![NPM version][npm-image]][npm-url]
 
-A simple and modern way to make your code pure
+A simple and modern way to make your code clean
 
 ## Installation
 
