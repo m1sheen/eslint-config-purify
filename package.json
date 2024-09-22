@@ -1,6 +1,6 @@
 {
 	"name": "eslint-config-purify",
-	"version": "2.0.4",
+	"version": "2.0.5",
 	"author": "m1sheen",
 	"repository": "https://github.com/m1sheen/eslint-config-purify",
 	"license": "MIT",
@@ -13,7 +13,7 @@
 		"lint:fix": "eslint --fix"
 	},
 	"dependencies": {
-		"@eslint/js": "^9.10.0",
+		"@eslint/js": "^9.11.0",
 		"eslint-config-prettier": "^9.1.0",
 		"eslint-plugin-prettier": "^5.2.1",
 		"eslint-plugin-simple-import-sort": "^12.1.1",
@@ -27,7 +27,7 @@
 	"devDependencies": {
 		"@types/eslint": "^9.6.1",
 		"@types/eslint__js": "^8.42.3",
-		"eslint": "^9.10.0",
+		"eslint": "^9.11.0",
 		"globals": "^15.9.0",
 		"tsup": "^8.3.0"
 	},
