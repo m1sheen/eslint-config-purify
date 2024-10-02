@@ -1,6 +1,6 @@
 {
 	"name": "eslint-config-purify",
-	"version": "2.0.8",
+	"version": "2.0.9",
 	"author": "m1sheen",
 	"repository": "https://github.com/m1sheen/eslint-config-purify",
 	"license": "MIT",
@@ -28,7 +28,7 @@
 		"@types/eslint": "^9.6.1",
 		"@types/eslint__js": "^8.42.3",
 		"eslint": "^9.11.1",
-		"globals": "^15.9.0",
+		"globals": "^15.10.0",
 		"tsup": "^8.3.0"
 	},
 	"engines": {
