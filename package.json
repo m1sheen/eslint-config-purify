@@ -1,6 +1,6 @@
 {
 	"name": "eslint-config-purify",
-	"version": "2.0.12",
+	"version": "2.0.13",
 	"author": "m1sheen",
 	"repository": "https://github.com/m1sheen/eslint-config-purify",
 	"license": "MIT",
@@ -22,7 +22,7 @@
 		"prettier": "^3.3.3",
 		"svelte": "^4.2.19",
 		"typescript": "^5.5.4",
-		"typescript-eslint": "^8.8.1"
+		"typescript-eslint": "^8.9.0"
 	},
 	"devDependencies": {
 		"@types/eslint": "^9.6.1",
