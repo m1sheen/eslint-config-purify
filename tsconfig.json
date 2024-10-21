@@ -6,7 +6,7 @@
 		"removeComments": true,
 		// Modules
 		"module": "ESNext",
-		"moduleResolution": "Node",
+		"moduleResolution": "Bundler",
 		"esModuleInterop": true,
 		"resolveJsonModule": true,
 		// Error reporting
@@ -26,7 +26,6 @@
 		}
 	},
 	"include": [
-		"src/**/*.ts",
-		"src/**/*.js"
+		"src"
 	]
 }

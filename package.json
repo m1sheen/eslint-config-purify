@@ -1,8 +1,8 @@
 {
 	"name": "eslint-config-purify",
-	"version": "2.0.15",
+	"version": "2.1.0",
 	"author": "m1sheen",
-	"repository": "https://github.com/m1sheen/eslint-config-purify",
+	"repository": "m1sheen/eslint-config-purify",
 	"license": "MIT",
 	"main": "dist/index.js",
 	"types": "dist/index.d.ts",
@@ -17,11 +17,8 @@
 		"eslint-config-prettier": "^9.1.0",
 		"eslint-plugin-prettier": "^5.2.1",
 		"eslint-plugin-simple-import-sort": "^12.1.1",
-		"eslint-plugin-svelte": "^2.45.1",
+		"eslint-plugin-svelte": "^2.46.0",
 		"eslint-plugin-unused-imports": "^4.1.4",
-		"prettier": "^3.3.3",
-		"svelte": "^4.2.19",
-		"typescript": "^5.6.3",
 		"typescript-eslint": "^8.10.0"
 	},
 	"devDependencies": {
@@ -29,7 +26,11 @@
 		"@types/eslint__js": "^8.42.3",
 		"eslint": "^9.13.0",
 		"globals": "^15.11.0",
-		"tsup": "^8.3.0"
+		"prettier": "^3.3.3",
+		"prettier-plugin-svelte": "^3.2.7",
+		"svelte": "^5.0.3",
+		"tsup": "^8.3.0",
+		"typescript": "^5.6.3"
 	},
 	"engines": {
 		"node": "^18.18.0 || ^20.9.0 || >=21.1.0"
