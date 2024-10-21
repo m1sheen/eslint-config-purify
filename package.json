@@ -2,7 +2,10 @@
 	"name": "eslint-config-purify",
 	"version": "2.1.0",
 	"author": "m1sheen",
-	"repository": "m1sheen/eslint-config-purify",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/m1sheen/eslint-config-purify.git"
+	},
 	"license": "MIT",
 	"main": "dist/index.js",
 	"types": "dist/index.d.ts",
