@@ -8,7 +8,7 @@ export default [
 	...eslintPluginSvelte.configs["flat/prettier"],
 	// Files
 	{
-		files: ["**/*.svelte"],
+		files: ["**/*.svelte", "**/*.svelte.{ts,js}"],
 		languageOptions: {
 			parserOptions: {
 				parser: ts.parser

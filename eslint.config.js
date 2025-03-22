@@ -4,6 +4,7 @@ import eslintConfigPurify from "./dist/index.js";
 
 /** @type {import("eslint").Linter.Config[]} */
 export default [
+	...eslintConfigPurify,
 	{
 		languageOptions: {
 			globals: {
@@ -13,7 +14,6 @@ export default [
 			}
 		}
 	},
-	...eslintConfigPurify,
 	{
 		ignores: ["node_modules", "dist"]
 	}
