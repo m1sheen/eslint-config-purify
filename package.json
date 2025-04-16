@@ -1,6 +1,6 @@
 {
 	"name": "eslint-config-purify",
-	"version": "2.12.0",
+	"version": "2.13.0",
 	"author": "m1sheen",
 	"repository": {
 		"type": "git",
@@ -22,7 +22,7 @@
 		"eslint-plugin-simple-import-sort": "^12.1.1",
 		"eslint-plugin-svelte": "^3.5.1",
 		"eslint-plugin-unused-imports": "^4.1.4",
-		"svelte": "^5.26.3",
+		"svelte": "^5.27.0",
 		"typescript-eslint": "^8.30.1"
 	},
 	"devDependencies": {
